@@ -8,4 +8,4 @@ This is file-based socket work simulation.
 # How to use:
 - Run at first **env_new.py** 
 - Then run **host1.py** and **host2.py**
-- follow the instructions
+- Follow the instructions
